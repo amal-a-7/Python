@@ -6,7 +6,8 @@
  stripped_lines=[line.strip() for line in lines]
  print("Stripped lines:",stripped_lines)
 
+                or
 
-print([line.rstrip() for line in open('v1.txt','r')])
+print([line.rstrip() for line in open('v1.txt','r')])  ///single line code///
 
 
